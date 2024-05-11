@@ -23,9 +23,9 @@ We use Paul Grarham's essay text as a text to convert and compare.
 
 It is about 1.5-2mins of audio depending on the model pauses used.
 
-(Resulting Audio files)[https://github.com/yagudaev/tts-apis-comparison/tree/main/audio]
+[Resulting Audio files](https://github.com/yagudaev/tts-apis-comparison/tree/main/audio)
 
-(Spreadsheet Comparison)[https://docs.google.com/spreadsheets/d/1tS4osfSbxxQ52yJr1BUOP-37KUgDgnrABi6X1IVS0_k/edit?usp=sharing]
+[Spreadsheet Comparison](https://docs.google.com/spreadsheets/d/1tS4osfSbxxQ52yJr1BUOP-37KUgDgnrABi6X1IVS0_k/edit?usp=sharing)
 
 
 
