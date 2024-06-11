@@ -1,7 +1,7 @@
 # Text to Speech APIs Comparision
 A comparison of TTS APIs and Open Source projects on price, speed and quality.
 
-**Last Updated**: May 10, 2024
+**Last Updated**: June 11, 2024
 
 This repo contains audio files and data about a comparison of all major Text-to-speech APIs and (soon) Open Source Projects.
 
