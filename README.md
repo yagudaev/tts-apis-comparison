@@ -30,4 +30,6 @@ It is about 1.5-2mins of audio depending on the model pauses used.
 [Spreadsheet Comparison](https://docs.google.com/spreadsheets/d/1tS4osfSbxxQ52yJr1BUOP-37KUgDgnrABi6X1IVS0_k/edit?usp=sharing)
 
 
+# Benchmarks
 
+1. https://huggingface.co/blog/arena-tts - let users rank two models based on what sounds more natural, then calculate the score.
